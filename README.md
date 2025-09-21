@@ -8,12 +8,14 @@ A template repo for Python + Vue.js + Docker
 ## Tools
 ### Backend
 - Python 3.11
-- [uv](https://uv.pypa.io/en/stable/)
-- [ruff](https://ruff.rs/)
+- [uv](https://docs.astral.sh/uv/)
+- [litestar](https://litestar.dev/)
 
 ### Frontend
 - Node.js 22
 - [pnpm](https://pnpm.io/)
+- [vue](https://vuejs.org/)
+- [vite](https://vite.dev/)
 
 ### Database
 - [Meilisearch](https://www.meilisearch.com/)
